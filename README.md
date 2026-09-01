@@ -60,8 +60,16 @@ Suggestions and feedback are always welcome! Feel free to fork the repository, r
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/pramodvusa12
-- LinkedIn: https://www.linkedin.com/in/pramod-vusa-308569328
+- LinkedIn: https://www.linkedin.com/in/pramod-vusa-308569328RENT
 
 ---
 
 ⭐ If you find this repository helpful, don't forget to star it!
+
+MINI PROJECT 1  - RENT CALCULATOR
+**Rent Calculator** is a simple Python mini project that calculates rental costs based on user inputs. It demonstrates basic Python concepts such as user input, calculations, variables, and conditional logic.
+
+ MINI PROJECT 2 - ROCK PAPER SCISSOR GAME 
+**Rock Paper Scissors** is a simple Python game where the user plays against the computer. It uses random choices and conditional statements to determine the winner.
+
+
